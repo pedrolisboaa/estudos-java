@@ -1,0 +1,11 @@
+package comparadores;
+
+public class esopoInicilizacao {
+	public static void main(String[] args) {
+
+		double prince = 400;
+		
+		System.out.println(price);
+	
+	}
+}

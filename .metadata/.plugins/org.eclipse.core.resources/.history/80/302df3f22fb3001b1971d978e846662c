@@ -1,0 +1,19 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Ola mundo! ");
+		System.out.print("Sem quebra de linha%n");
+		System.out.println();
+		
+		// Variáveis
+		
+		int numero1 = 30;
+		int numero2 = 40;
+		
+		System.out.println(numero1 + numero2);
+
+	}
+
+}
