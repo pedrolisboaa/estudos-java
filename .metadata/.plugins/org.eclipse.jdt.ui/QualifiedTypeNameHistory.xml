@@ -2,6 +2,15 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="jdk.nashorn.internal.runtime.PrototypeObject"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.awt.Rectangle"/>
+    <fullyQualifiedTypeName name="entities.Rectangle"/>
+    <fullyQualifiedTypeName name="Util.Calculator"/>
+    <fullyQualifiedTypeName name="Application.Bank"/>
+    <fullyQualifiedTypeName name="entities.Account"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="entities.Pedido"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="entities.enums.StatusPedido"/>
 </qualifiedTypeNameHistroy>
