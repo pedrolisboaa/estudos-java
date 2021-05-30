@@ -6,16 +6,23 @@
     <fullyQualifiedTypeName name="entities.Rectangle"/>
     <fullyQualifiedTypeName name="Util.Calculator"/>
     <fullyQualifiedTypeName name="Application.Bank"/>
-    <fullyQualifiedTypeName name="entities.Product"/>
     <fullyQualifiedTypeName name="entities.Pedido"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="entities.enums.StatusPedido"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="entities.OrderItem"/>
+    <fullyQualifiedTypeName name="com.sun.java.swing.action.SaveAction"/>
+    <fullyQualifiedTypeName name="entities.OutsourceEmployee"/>
+    <fullyQualifiedTypeName name="entities.Employee"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="entities.ImportedProduct"/>
+    <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="entities.UsedProduct"/>
     <fullyQualifiedTypeName name="entities.Account"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="entities.SavingAccount"/>
     <fullyQualifiedTypeName name="entities.BusinessAccount"/>
 </qualifiedTypeNameHistroy>
